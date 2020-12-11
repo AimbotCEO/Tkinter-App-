@@ -14,6 +14,5 @@ start VS code app then make a new folder and extract it and put it in VS code wo
 and have fun 
 
 
-this is my first project so if you have any probloms with the app please comment me on my github account and i'm going to help you out as much as i can 
-
-AimbotCEO®
+this is my first project so if you have any probloms with the app please comment me on my github account and i'm going to help you out as much as i can
+IX Coding®
